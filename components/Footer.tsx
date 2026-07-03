@@ -12,7 +12,6 @@ export default function Footer() {
         <p>
           © {year} {profile.name}. All rights reserved.
         </p>
-        <p>Designed and Developed by Tamilarasu A</p>
         <a
           href="#top"
           aria-label="Back to top"
